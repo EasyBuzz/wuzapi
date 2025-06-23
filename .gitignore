@@ -1,7 +1,6 @@
 dbdata/
 files/
 wuzapi
-.env
 .tool-versions
 
 # Added by Claude Task Master
@@ -17,7 +16,6 @@ node_modules/
 # Environment variables
 # Editor directories and files
 .idea
-.vscode
 *.suo
 *.ntvs*
 *.njsproj
@@ -37,3 +35,4 @@ scripts/
 .taskmasterconfig
 .windsurfrules
 NEW_FEATS.md
+config.bat
